@@ -120,8 +120,8 @@ This block displays the date and links to Google Calendar.
 {% endcomment %}
 {% if page.humandate %}
 <p id="when">
-  <strong>When:</strong> (optional session: November 26, 2-3:15 pm).
-  {{page.humandate}}.
+  <strong>When:</strong> 
+  {{page.humandate}} (optional session: November 26, 2-3:15 pm).
 </p>
 {% endif %}
 
