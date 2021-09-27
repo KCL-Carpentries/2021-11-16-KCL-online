@@ -14,7 +14,7 @@ humantime: "2:00 pm - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2021-11-16     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-11-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Stefania Marcotti", "Flavia Flaviani", "Alessia Visconti"] 
-helper: ["Kai Xiang Lim", "Fursham Hamid"]     
+helper: ["Kai Xiang Lim", "Fursham Hamid", "James Cain"]     
 email: ["carpentries@kcl.ac.uk"]   
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
